@@ -1,0 +1,13 @@
+
+h3 {
+		color: #414141;
+		background-color: chocolate;
+		font-family: segoe ui light;
+}	
+
+p { border: 1px dotted black; 
+padding-left: 10px ;
+padding-top: 100px;
+margin-bottom: 200px;
+
+}
